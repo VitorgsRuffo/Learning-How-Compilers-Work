@@ -1,0 +1,11 @@
+if then
+else
+end
+begin
+print
+;
+=@
++09192
+0912192
+-9182192
+@#@Aa
